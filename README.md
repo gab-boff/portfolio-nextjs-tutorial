@@ -1,4 +1,4 @@
-Based on this <a href="https://www.youtube.com/watch?v=CMx51wpd7g4&list=LL&index=2" target="_blank">video</a>
+Based on this <a href="https://www.youtube.com/watch?v=CMx51wpd7g4&list=LL&index=2">video</a>.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
